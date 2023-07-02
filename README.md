@@ -1,2 +1,6 @@
-# devonthink3_translate
-devonthink3 汉化文件
+# devonthink3_translate/devonthink3 汉化文件
+> **根据文件夹名称中的地址将文件夹放入对应路径，并修改文件夹名称为zh.lproj**
+---
++ 本汉化文件通过 chatgpt 翻译，如有不准确的地方，可自行修改 
++ 本汉化文件仅在devonthink pro 3.9.1上进行测试，不保证其他版本可正常使用
++ 如汉化未生效，请确保OSX设置的默认语言为中文，或在 系统-通用 中添加应用程序语言
